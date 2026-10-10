@@ -45,12 +45,15 @@ During development and auditing with **Lighthouse** and **Axe**, the following a
 ## 📊 Audit & Test Results
 
 ### Google Lighthouse Accessibility Audit
-<img width="767" height="514" alt="image" src="https://github.com/user-attachments/assets/8e3160c8-48e1-4332-b9ee-7de169d73414" />
 - **Score:** 100 / 100
+<img width="767" height="514" alt="image" src="https://github.com/user-attachments/assets/8e3160c8-48e1-4332-b9ee-7de169d73414" />
+
+
 
 ### Axe / WAVE DevTools Audit
-<img width="1201" height="728" alt="image" src="https://github.com/user-attachments/assets/0a330228-0cf5-4bef-bf34-36354c7425bd" />
 - **Violations Found:** 0
+<img width="1201" height="728" alt="image" src="https://github.com/user-attachments/assets/0a330228-0cf5-4bef-bf34-36354c7425bd" />
+
 
 ---
 
