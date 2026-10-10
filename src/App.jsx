@@ -21,7 +21,8 @@ export default function App() {
                   Welcome to <strong className="text-black">Facultime</strong>. Book verified one-on-one consultation slots with faculty members quickly, transparently, and accessibly.
                 </p>
                 <Card className="border border-2 border-dark shadow-sm p-4 bg-white mb-4 rounded">
-                  <h4 className="fw-bold text-black mb-2">Accessibility Commitment</h4>
+                  {/* Changed from h4 to h2 to maintain strict sequential order */}
+                  <h2 className="fw-bold text-black mb-2 fs-4">Accessibility Commitment</h2>
                   <p className="text-black mb-0 fw-medium">
                     This portal is built following strict WAI-ARIA guidelines, guaranteeing high color contrast (exceeding WCAG AAA standards), full keyboard navigation support, and semantic screen-reader markup.
                   </p>
